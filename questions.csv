@@ -1,0 +1,7 @@
+Question ID,Question,Options,Answer,Status
+Q0001,What's my name?,,Patricija,E
+Q0002,What year is it?,A: 2023;B: 2022;C: 2021;D: 2020,A,E
+Q0003,What's my age?,A: 22;B: 23;C: 21;D: 24,D,E
+Q0004,Where am I from?,,Lithuania,E
+Q0005,What year was I born in?,A: 1998;B: 1999;C: 2000;D: 2001,B,E
+Q0006,What is my major?,,Music,E

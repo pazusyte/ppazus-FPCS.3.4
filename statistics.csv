@@ -1,0 +1,7 @@
+Question ID,Question,Options,Status,Show Count,Correct Count,Correct Percentage
+Q0001,What's my name?,,E,2,2,100.0
+Q0002,What year is it?,A: 2023;B: 2022;C: 2021;D: 2020,E,3,2,66.67
+Q0003,What's my age?,A: 22;B: 23;C: 21;D: 24,E,2,2,100.0
+Q0004,Where am I from?,,E,2,2,100.0
+Q0005,What year was I born in?,A: 1998;B: 1999;C: 2000;D: 2001,E,2,1,50.0
+Q0006,What is my major?,,E,0,0,0

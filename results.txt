@@ -1,0 +1,24 @@
+
+=== Test Results ===
+Date and Time: 2023-12-21 21:50:10
+Score: 1 / 2
+
+Question ID: Q0005
+User Answer: B
+Correct: Y
+
+Question ID: Q0003
+User Answer: B
+Correct: N
+
+=== Test Results ===
+Date and Time: 2023-12-21 21:51:41
+Score: 2 / 2
+
+Question ID: Q0004
+User Answer: Lithuania
+Correct: Y
+
+Question ID: Q0001
+User Answer: Patricija
+Correct: Y
