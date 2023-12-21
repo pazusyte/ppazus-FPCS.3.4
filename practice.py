@@ -72,7 +72,6 @@ class PracticeMode:
             return [(question["Question ID"], 1.0) for question in self.questions]
     
     def sync_weights_with_questions(self):
-        # Ensure that all questions have weights recorded
         for question in self.questions:
             question_id = question["Question ID"]
             if not any(q_id == question_id for q_id, _ in self.weights):
