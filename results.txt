@@ -22,3 +22,15 @@ Correct: Y
 Question ID: Q0001
 User Answer: Patricija
 Correct: Y
+
+=== Test Results ===
+Date and Time: 2023-12-22 09:26:37
+Score: 2 / 2
+
+Question ID: Q0001
+User Answer: Patricija
+Correct: Y
+
+Question ID: Q0004
+User Answer: Lithuania
+Correct: Y
